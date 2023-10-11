@@ -22,7 +22,7 @@
         font-size: 36px;
     }
 
-    .conteudo .descricao{
+    .conteudo .descricao {
         max-width: 500px;
     }
 
@@ -53,6 +53,10 @@
     }
 
     .conteudo .nome-personagem {
+        font-size: 24px;
+    }
+    
+    .botoes {
         padding: 20px;
         top: -20%;
     }
